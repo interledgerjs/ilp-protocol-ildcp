@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/interledgerjs/ilp-protocol-ildcp#readme",
   "dependencies": {
-    "debug": "^3.1.0",
+    "debug": "^4.1.1",
     "ilp-packet": "^3.0.7",
     "oer-utils": "^4.0.0"
   },
