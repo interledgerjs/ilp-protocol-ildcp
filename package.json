@@ -52,7 +52,7 @@
     "mocha": "^5.2.0",
     "mocha-typescript": "^1.1.17",
     "nyc": "^13.0.1",
-    "sinon": "^6.1.5",
+    "sinon": "^7.4.2",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "tslint-config-standard": "^8.0.0",
